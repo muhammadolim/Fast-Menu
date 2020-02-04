@@ -470,10 +470,10 @@ h1{
         top: -2px;
     }
     .item-settings .col-sm-10 .print-bill .before{
-        width: 74px;
+        width: 64%;
     }
     .item-settings .col-sm-10 .print-bill .after{
-        width: 75px;
+        width: 65%;
     }
     .item-settings .col-sm-10 .your-bill pre{
         font-size: small;
