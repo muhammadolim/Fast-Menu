@@ -477,7 +477,7 @@ printBill.addEventListener('click', function (e) {
                 }
 
                 if (nmr != 0) {
-                    bill += `${name}⁞${size[j]}⁞${nmr}⁞${prc}<br>`
+                    bill += `${name}|${size[j]}|${nmr}|${prc}<br>`
                     splitLines = true
                 }
             }
@@ -489,7 +489,7 @@ printBill.addEventListener('click', function (e) {
 
         spaceGenerator(totalH3.innerText, priceH3.innerText)
 
-        bill += `Total    ⁞        ⁞${nmr}⁞${prc}`
+        bill += `Total    |        |${nmr}|${prc}`
 
         yourBill.innerHTML = bill
 
