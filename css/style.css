@@ -311,7 +311,7 @@ h1{
 
 .item-settings .col-sm-10 .print-bill .before,
 .item-settings .col-sm-10 .print-bill .after{
-    width: 104px;
+    width: 150px;
     height: 2px;
     background-color: #000;
     position: absolute;
@@ -486,12 +486,7 @@ h1{
         background-color: #000;
         position: absolute;
         top: -2px;
-    }
-    .item-settings .col-sm-10 .print-bill .before{
-        width: 64%;
-    }
-    .item-settings .col-sm-10 .print-bill .after{
-        width: 65%;
+        width: 100px;
     }
     .item-settings .col-sm-10 .your-bill pre{
         font-size: small;
