@@ -519,9 +519,6 @@ printBill.addEventListener('click', function (e) {
         }, 3300);
 
         setTimeout(() => {
-            printBillBefore.style.display = 'none'
-            printBillAfter.style.display = 'none'
-            
             this.children[1].innerHTML = 'Done!'
         }, 5500);
 
