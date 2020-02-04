@@ -1,4 +1,4 @@
-z.disable{
+.disable{
     pointer-events: none !important;
     transition: 1s !important;
     opacity: 0.4 !important;
