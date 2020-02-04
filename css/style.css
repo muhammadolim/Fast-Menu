@@ -342,7 +342,7 @@ h1{
 
 .item-settings .col-sm-10 .your-bill{
     padding: 14.8px;
-    margin-top: -2px;
+    /* margin-top: -2px; */
     width: min-content;
     border: 2px solid rgba(0, 0, 0, 0.6);
     opacity: 0;
