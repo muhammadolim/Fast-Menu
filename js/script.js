@@ -535,5 +535,4 @@ printBill.addEventListener('click', function (e) {
         }
     }
 });
-
 })
