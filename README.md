@@ -1,7 +1,7 @@
 # [Fast-Menu](https://muhammadolim.github.io/Fast-Menu)
 ### Online Fast Food Shop <br />
 
-![image](https://user-images.githubusercontent.com/58527269/178030706-5fb88e87-b6d1-4aac-88ab-3c7917779bba.png)
+![image](https://user-images.githubusercontent.com/58527269/178046638-3374ac41-4989-4f6c-9a26-ad7378965326.png)
 ## Motivation
 In my web development course, there was a challange to make a food ordering app with basic features. And this project was the winner.
 ## Learning outcomes
